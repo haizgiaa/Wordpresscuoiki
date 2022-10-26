@@ -289,25 +289,5 @@ Cũng tựa như như chợ Quận Thủ Đức, chợHóc Môn là khu vực ch
 		
 		
 			</item>
-		<item>
-		<title>Hello world!</title>
-		<link>https://haizgiaa.github.io/Wordpresscuoiki/hello-world/</link>
-					<comments>https://haizgiaa.github.io/Wordpresscuoiki/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[uy]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 05:18:57 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://haizgiaa.github.io/Wordpresscuoiki/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://haizgiaa.github.io/Wordpresscuoiki/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
 	</channel>
 </rss>

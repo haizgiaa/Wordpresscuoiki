@@ -66,7 +66,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://haizgiaa.github.io/Wordpresscuoiki/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/uyproject\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://haizgiaa.github.io/Wordpresscuoiki/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"921ee277c9"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"f30efe62f7"};</script>
 <script src="https://haizgiaa.github.io/Wordpresscuoiki/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
